@@ -1,0 +1,19 @@
+{
+  "name": "JEE VERSE \u2014 Class 11 JEE Study Tracker",
+  "short_name": "JEE VERSE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7faff",
+  "theme_color": "#f7faff",
+  "description": "Class 11 JEE study tracker with Quick Access, Class 11 chapters, progress, practice and Error Book.",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
